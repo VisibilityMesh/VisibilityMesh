@@ -17,6 +17,10 @@ Small, focused, source-cited utilities any developer can use. No account require
 npx @visibilitymesh/crawler-check https://your-store.com
 ```
 
+## Comparisons
+
+- **[ai-visibility-tools-comparison](https://github.com/VisibilityMesh/ai-visibility-tools-comparison)** — a dense, source-cited technical comparison of 19 AI visibility, AEO, and GEO tools for ecommerce: capability matrix, verified pricing and API facts, and sources.
+
 ## Case studies
 
 Real applications of our methodology, documented with data:
