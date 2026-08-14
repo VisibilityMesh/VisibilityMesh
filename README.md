@@ -17,6 +17,12 @@ Small, focused, source-cited utilities any developer can use. No account require
 npx @visibilitymesh/crawler-check https://your-store.com
 ```
 
+## Case studies
+
+Real applications of our methodology, documented with data:
+
+- **[case-studies](https://github.com/VisibilityMesh/case-studies)** — worked examples of making ecommerce stores discoverable and recommended by AI. Includes a fashion alternative-comparison case study with a machine-readable dataset of 21 brand comparisons.
+
 ## How Visibility Mesh compares
 
 Most tools for AI visibility do one part of the job: they monitor. Visibility Mesh runs the full loop for Shopify stores: **monitor, diagnose, remediate, validate, measure.** It does not stop at telling you there is a problem. It fixes the store-level cause with your approval and proves the change with before and after evidence.
