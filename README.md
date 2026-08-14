@@ -21,7 +21,7 @@ npx @visibilitymesh/crawler-check https://your-store.com
 
 Real applications of our methodology, documented with data:
 
-- **[case-studies](https://github.com/VisibilityMesh/case-studies)** — worked examples of making ecommerce stores discoverable and recommended by AI. Includes a fashion alternative-comparison case study with a machine-readable dataset of 21 brand comparisons.
+- **[case-studies](https://github.com/VisibilityMesh/case-studies)** — worked examples of making ecommerce stores discoverable and recommended by AI. Includes a fashion content program case study: 84 articles across 8 intent clusters (with 21 brand comparisons) and machine-readable datasets.
 
 ## How Visibility Mesh compares
 
